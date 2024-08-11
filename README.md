@@ -1,4 +1,4 @@
-# Fortune_500-Companies
+# Fortune_500_Companies
 
 CREATE TABLE fortune_companies (
     company_id INTEGER PRIMARY KEY,
